@@ -1,3 +1,4 @@
 def parrot(string= "Squawk!")
-puts "Pretty bird! #{string}"
+if string
+puts "Pretty bird!
 end

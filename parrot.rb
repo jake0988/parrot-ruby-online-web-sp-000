@@ -1,4 +1,3 @@
 def parrot(string= "Squawk!")
-string = "Pretty bird!"
-puts string
+puts "Pretty bird! #{string}""
 end
